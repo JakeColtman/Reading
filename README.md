@@ -9,5 +9,8 @@ Programming F# 3.0 - Chris Smith
 
 SQL and Relational Theory - C J Date
 
+Econometric Analysis - Greene
+
+
 Reading:
 
