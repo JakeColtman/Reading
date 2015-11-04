@@ -11,6 +11,13 @@ SQL and Relational Theory - C J Date
 
 Econometric Analysis - Greene
 
+Reporting with Microsoft SQL Server 2012
 
-Reading:
+Patterns, Principles and Practices of Domain-Driven Design
+
+Microsoft .NET- Architecting Applications for the Enterprise, 2nd Edition
+
+Head First Design Patterns
+
+
 
